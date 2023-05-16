@@ -1,0 +1,10 @@
+:root {
+    --main-backround-c: #120e1a;
+    --popup-c: #2c2947;
+    --popup-action-pannel-c: #231e38;
+    --popup-action-input-c: #4b436e;
+    --white: #fff;
+
+    --def-tr: all .5s;
+    --def-tr-1s: all .1s;
+}
